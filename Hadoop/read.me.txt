@@ -1,0 +1,2 @@
+1.ant
+2.hadoop jar comp5349.jar moviecounter.MovieDriver AllVideos_short.csv outputMRlcs
